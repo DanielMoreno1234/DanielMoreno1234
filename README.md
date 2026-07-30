@@ -1,6 +1,6 @@
 # Daniel Moreno 🤖
 
-***`Engenheiro Informático`*
+*`Engenheiro Informático`*
 
 Olá chamo-me Daniel Moreno, licenciado em Engenharia Informática na Universidade do Algarve (UAlg) e usarei esta plataforma para publicar alguns dos projetos feitos durante o meu percurso académico e outros trabalhos também.
 
