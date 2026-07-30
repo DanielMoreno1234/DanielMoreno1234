@@ -9,7 +9,7 @@ Olá chamo-me Daniel Moreno, licenciado em Engenharia Informática na Universida
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/DanielMoreno1234?tab=repositories" target="_blank">
-    <img alt="Repositórios no GitHub" src="https://img.shields.io/github/search?query=user%3ADanielMoreno1234&style=for-the-badge&logo=github&color=55960c&label=REPOSIT%C3%93RIOS" />
+    <img alt="Repositórios no GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=55960c&label=REPOSIT%C3%93RIOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDanielMoreno1234" />
   </a>
 </p>
 
@@ -41,23 +41,17 @@ Olá chamo-me Daniel Moreno, licenciado em Engenharia Informática na Universida
 
 ## Estatísticas 📊
 
-<div align="left">
+<div align="center">
   <table border="0">
     <tr>
       <td valign="top">
         <a href="https://github.com/DanielMoreno1234">
-          <img 
-            height="150px" 
-            src="https://github-stats-extended.vercel.app/api?username=DanielMoreno1234&rank_icon=github&custom_title=Estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&theme=codeSTACKr" 
-            />
+          <img height="150px" src="https://github-stats-extended.vercel.app/api?username=DanielMoreno1234&rank_icon=github&custom_title=Estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr" />
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/DanielMoreno1234">
-          <img 
-            height="150px" 
-            src="https://github-stats-extended.vercel.app/api/top-langs?username=DanielMoreno1234&langs_count=8&theme=codeSTACKr" 
-            />
+          <img height="150px" src="https://github-stats-extended.vercel.app/api/top-langs?username=DanielMoreno1234&langs_count=8&theme=codeSTACKr" />
         </a>
       </td>
     </tr>
