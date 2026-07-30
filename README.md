@@ -51,7 +51,7 @@ Olá chamo-me Daniel Moreno, licenciado em Engenharia Informática na Universida
       </td>
       <td valign="top">
         <a href="https://github.com/DanielMoreno1234">
-          <img height="150px" src="https://github-stats-extended.vercel.app/api/top-langs?username=DanielMoreno1234&langs_count=8&theme=codeSTACKr" />
+          <img height="150px" src="https://github-stats-extended.vercel.app/api/top-langs?username=DanielMoreno1234&layout=compact&langs_count=8&count_private=true&theme=codeSTACKr" />
         </a>
       </td>
     </tr>
