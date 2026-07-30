@@ -8,13 +8,14 @@ Olá chamo-me Daniel Moreno, licenciado em Engenharia Informática na Universida
   <a href="https://www.linkedin.com/in/daniel-brissos-ramos-moreno-b1102241a/" target="_blank">
     <img 
       alt="LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      />
   </a>
-  <a href="https://github.com/DanielMoreno1234?tab=repositories" target="_blank">
+  <a href="https://github.com/DanielMoreno1234" target="_blank">
     <img 
-      alt="Estrelas totais no GitHub" 
-      title="Estrelas totais no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+      alt="Estrelas do GitHub" 
+      src="https://img.shields.io/github/stars/DanielMoreno1234?style=for-the-badge&logo=github&color=55960c&label=Repositorios" 
+      />
   </a>
 </p>
 
