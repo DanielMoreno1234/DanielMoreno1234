@@ -9,7 +9,7 @@ Olá chamo-me Daniel Moreno, licenciado em Engenharia Informática na Universida
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/DanielMoreno1234?tab=repositories" target="_blank">
-    <img alt="Repositórios no GitHub" src="https://img.shields.io/github/search?query=user%3ADanielMoreno1234&style=for-the-badge&logo=github&color=55960c&label=REPOSIT%C3%93RIOS" />
+    <img alt="Repositórios no GitHub" src="https://img.shields.io/github/search?query=user%3ADanielMoreno1234%20fork%3Atrue&style=for-the-badge&logo=github&color=55960c&label=REPOSIT%C3%93RIOS" />
   </a>
 </p>
 
