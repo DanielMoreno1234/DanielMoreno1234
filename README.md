@@ -46,12 +46,12 @@ Olá chamo-me Daniel Moreno, licenciado em Engenharia Informática na Universida
     <tr>
       <td valign="top">
         <a href="https://github.com/DanielMoreno1234">
-          <img height="150px" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DanielMoreno1234&rank_icon=github&custom_title=Estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&v=1" />
+          <img height="150px" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=DanielMoreno1234&rank_icon=github&custom_title=Estat%C3%ADsticas%20do%20GitHub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&v=2" />
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/DanielMoreno1234">
-          <img height="150px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=DanielMoreno1234&layout=compact&langs_count=8&count_private=true&theme=tokyonight&v=1" />
+          <img height="150px" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=DanielMoreno1234&layout=compact&langs_count=8&count_private=true&theme=tokyonight&v=2" />
         </a>
       </td>
     </tr>
